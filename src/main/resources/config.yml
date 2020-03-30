@@ -1,0 +1,12 @@
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  database: minecraft
+  username: minecraft
+  password: password
+
+messages:
+  command-error: "&cThis command run into an error. Retry later."
+  not-player: "&cYou must be a player to run this command!"
+  one-command: "&cYou can use this command only once!"
+  teleport: "&6Teleporting..."

@@ -1,0 +1,11 @@
+name: RTP
+main: it.multicoredev.spigot.RTP
+version: 1.0.0
+api-version: 1.15
+author: LoreSchaeffer
+
+commands:
+  rtp:
+    description: Main rtp command
+    aliases: [randomtp]
+    usage: /<command>
